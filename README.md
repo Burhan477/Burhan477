@@ -8,7 +8,7 @@
 ### 🧠 Skills
 - Frontend: React, Next.js, Chakra UI
 - Backend: Node.js, Express
-- Database: MongoDB
+- Database: MongoDB, postgresSQL, MySql
 - Tools: Git, GitHub, Postman
 
 ---
