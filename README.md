@@ -67,9 +67,9 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: [https://linkedin.com/in/yourname](https://www.linkedin.com/in/burhanuddin-lakdawala-0a8b3b1b0/)
-- Portfolio: [https://yourportfolio.com](https://portfolio-burhan-56.vercel.app/)
-- 📧 Email: burhanlkd@gmail.com
+- LinkedIn: [linkedin profile](https://www.linkedin.com/in/burhanuddin-lakdawala-0a8b3b1b0/)
+- Portfolio: [visit my website](https://portfolio-burhan-56.vercel.app/)
+- 📧 Email: [burhanlkd@gmail.com](burhanlkd@gmail.com)
 
 ---
 
